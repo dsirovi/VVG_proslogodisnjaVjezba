@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Sirovina-1" />
+        <module name="Sirovina-1-old" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="Sirovina-1" target="8" />
+      <module name="Sirovina-1-old" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>
